@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimtjrgus)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **kimtjrgus/kimtjrgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kimtjrgus)](https://github.com/ryo-ma/github-profile-trophy)
+
 -->
