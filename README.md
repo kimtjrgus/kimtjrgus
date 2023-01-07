@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=kimtjrgus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimtjrgus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **kimtjrgus/kimtjrgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
