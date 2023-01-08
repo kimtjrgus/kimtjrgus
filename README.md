@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요 신입 개발자를 꿈꾸는 중입니다 👋
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimtjrgus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
