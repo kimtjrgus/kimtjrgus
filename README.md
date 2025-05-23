@@ -1,8 +1,9 @@
-## 👋 Hi, there 안녕하세요. 백엔드 개발자 김석현입니다.
+## 👋 안녕하세요, 백엔드 개발자 김석현입니다.
 
+<br>
 
 ## 🛠️ 기술 스택
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C.svg?style=flat-square"/>
@@ -12,16 +13,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </div>
 
----
+<br>
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimtjrgus&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtjrgus&layout=compact&theme=tokyonight" height="150"/>
 </div>
-
-
-
-감사합니다. 🙇‍♂️
-
